@@ -68,3 +68,18 @@ The advertisements and promotional concepts are AI-generated creative proposals.
 Future Interns – Prompt Engineering Task 2
 
 **Project Year:** 2026
+
+---
+
+## Advertisement Creative Gallery
+
+This folder contains AI-generated promotional advertisement creatives developed for the Crumbz Cafe UGC advertising campaign.
+
+### 1. Cafe Hangout
+![Cafe Hangout](Advertisement_Creatives/01_Cafe_Hangout.jpeg)
+
+### 2. Coffee Break
+![Coffee Break](Advertisement_Creatives/02_Coffee_Break.jpeg)
+
+### 3. Foodie Destination
+![Foodie Destination](Advertisement_Creatives/03_Foodie_Destination.jpeg)
